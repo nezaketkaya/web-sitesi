@@ -1,0 +1,83 @@
+<style type="text/css">
+     h1 {font-family:Candara;
+          font-size: 70px;
+          color:rgb(61, 4, 75);
+          position: relative;
+          left: 5px;
+      }
+      
+    img { position:static;
+          left: 50px;
+          top: 10px;
+    }
+     
+     div { border: 2px dashed rgb(58, 4, 58);
+           width:500px;
+           font-family: candara;
+           color: rgb(58, 4, 58);
+           font-size: 20px;
+           padding: 20px;
+           position: absolute;
+           left: 40%;
+           top: 220px;
+     } 
+     
+     #abi {
+           border: 2px  rgb(58, 4, 58);
+           border-style:dashed;
+           width:500px;
+           font-family: candara;
+           color: rgb(58, 4, 58);
+           font-size: 20px;
+           padding: 20px;
+           position: absolute;
+           left: 40%;
+           top: 520px;
+     }
+     #lan {
+           border: 2px dashed rgb(58, 4, 58);
+           width:500px;
+           font-family: candara;
+           color: rgb(58, 4, 58);
+           font-size: 20px;
+           padding: 20px;
+           position: absolute;
+           left: 40%;
+           top: 720px;
+     }
+     
+     span {
+           font-size: 20px;
+           color: indigo;
+     }
+  
+      #ins { 
+              top: 250px;
+              right: 70px;
+              margin: 0 10px;}
+     
+     #linkd { 
+              top: 250px;
+              right:20px;
+              margin: 0 10px;}
+
+      #github{
+              top: 250px;
+              right:40px;
+              margin: 0 10px;}
+
+      #mail{ 
+              top: 250px;
+              left:50px;}
+    
+      form {position:relative;
+          left: 80px;
+          top: 30px;
+          
+         }
+     
+    body { background-size: 700px 720px;
+      background-color:rgb(240, 227, 241);
+    
+    }
+    </style>                           
